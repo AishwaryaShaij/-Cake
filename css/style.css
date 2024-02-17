@@ -1,0 +1,50 @@
+/* Created by: Aishwarya Kavalakkal Shaiju */
+/* Student Number:8829570*/
+
+body{
+    width: fit-content;
+    max-width: 900px;
+}
+
+header{
+    background-color: hsl(0, 100%, 50%);
+}
+
+
+main{
+    background-color: hsl(120, 100%, 50%);
+    float: left;
+    width: 590px;
+}
+
+aside{
+    background-color: hsl(240, 100%, 50%);
+    float: right;
+    width: 290px;
+}
+
+footer{
+    background-color: hsl(60, 100%, 50%);
+    clear: both;
+}
+
+p{
+    color: rgb(0, 200, 0);
+   
+}
+
+.zyx{
+    padding: 10px;
+    border: 1px solid black;
+    margin: 10px;
+}
+
+a:hover{ 
+    color: yellow;
+}
+
+footer p{
+    font-size: 14px;
+    color: black;
+}
+
